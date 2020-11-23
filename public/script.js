@@ -23,7 +23,7 @@ const temperatureChartConfig = {
       yAxes: [
         {
           ticks: {
-            suggestedMin: 10,
+            suggestedMin:  0,
             suggestedMax: 40
           }
         }

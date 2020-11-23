@@ -6,11 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Soham Kamani",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "node-dht-sensor": "^0.4.3"
+    "mocha": "^8.2.1",
+    "node-dht-sensor": "^0.4.3",
+    "sqlite3": "^5.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciptsrc/sensor-project.git"
+  },
+  "keywords": [
+    "DHT11"
+  ],
+  "bugs": {
+    "url": "https://github.com/ciptsrc/sensor-project/issues"
+  },
+  "homepage": "https://github.com/ciptsrc/sensor-project#readme"
 }
